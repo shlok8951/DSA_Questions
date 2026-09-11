@@ -1,5 +1,5 @@
 /*
-Problem-> input a 2-D array with 0/1 element and convert the all row and col eleement by 0 in which any 0 exist
+Problem-> input a 2-D array with 0/1 element and convert the all row and col eleement by 0 in which any 0 exist.
 */
 #include<iostream>
 #include <iostream>
