@@ -31,9 +31,10 @@ int main(){
         tail->next = temp;
         tail = tail->next;
     }
-    while(head->next!=nullptr){
-        cout<<head->data<<endl;
-        head = head->next;
+    Node *temp = head;
+    while(temp->next!=nullptr){
+        cout<<temp->data<<endl;
+        temp = temp->next;
     }
 
 }
